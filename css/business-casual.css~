@@ -167,7 +167,7 @@ footer p {
     }
 
 	.navbar-default-sm {
-		background-color: #8FD520;
+		background-color: #f8f8f8;
 		border-color: #e7e7e7;
 	}
 
