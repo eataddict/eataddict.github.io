@@ -1,0 +1,228 @@
+{
+  "recipes": [
+    {
+      "no": 1,
+      "name": "Tomato Garlic Dip",
+      "caption": "Tangy, Spicy, Tasty Dip..",
+      "imgpath": "img/TomatoGarlicDip.jpg",
+      "urls": [
+        {
+          "name": "facebook",
+          "url": ""
+        },
+        {
+          "name": "pinterest",
+          "url": ""
+        },
+        {
+          "name": "instagram",
+          "url": ""
+        },
+        {
+          "name": "youtube",
+          "url": "https://youtu.be/v_zuuMWuwx4"
+        },
+        {
+          "name": "twitter",
+          "url": ""
+        },
+        {
+          "name": "share",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "name": "Chicken Cheese Pasta",
+      "caption": "A Cheesy, Saucy Chicken Pasta..",
+      "imgpath": "img/ChickenPasta.jpg",
+      "urls": [
+        {
+          "name": "facebook",
+          "url": ""
+        },
+        {
+          "name": "pinterest",
+          "url": ""
+        },
+        {
+          "name": "instagram",
+          "url": ""
+        },
+        {
+          "name": "youtube",
+          "url": "https://youtu.be/hrWNW7kcHks"
+        },
+        {
+          "name": "twitter",
+          "url": ""
+        },
+        {
+          "name": "share",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "name": "Corn Chivda",
+      "caption": "Perfect light monsoon snack",
+      "imgpath": "img/CornChivda.jpg",
+      "urls": [
+        {
+          "name": "facebook",
+          "url": ""
+        },
+        {
+          "name": "pinterest",
+          "url": ""
+        },
+        {
+          "name": "instagram",
+          "url": ""
+        },
+        {
+          "name": "youtube",
+          "url": "https://youtu.be/VRnexKrTzcY"
+        },
+        {
+          "name": "twitter",
+          "url": ""
+        },
+        {
+          "name": "share",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "name": "Honey Chilly Chicken",
+      "caption": "Sweet, Spicy, Crispy Chicken",
+      "imgpath": "img/HoneyChilliChicken.jpg",
+      "urls": [
+        {
+          "name": "facebook",
+          "url": ""
+        },
+        {
+          "name": "pinterest",
+          "url": ""
+        },
+        {
+          "name": "instagram",
+          "url": ""
+        },
+        {
+          "name": "youtube",
+          "url": "https://youtu.be/oQ3WvbzWx-c"
+        },
+        {
+          "name": "twitter",
+          "url": ""
+        },
+        {
+          "name": "share",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "name": "Rajma Curry",
+      "caption": "Protein rich Indian curry",
+      "imgpath": "img/RajmaCurry.jpg",
+      "urls": [
+        {
+          "name": "facebook",
+          "url": ""
+        },
+        {
+          "name": "pinterest",
+          "url": ""
+        },
+        {
+          "name": "instagram",
+          "url": ""
+        },
+        {
+          "name": "youtube",
+          "url": "https://youtu.be/XEwbLNaN9ao"
+        },
+        {
+          "name": "twitter",
+          "url": ""
+        },
+        {
+          "name": "share",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "name": "Chicken Biryani",
+      "caption": "Hyderabad's Fav Food",
+      "imgpath": "img/ChickenBiryani.jpg",
+      "urls": [
+        {
+          "name": "facebook",
+          "url": ""
+        },
+        {
+          "name": "pinterest",
+          "url": ""
+        },
+        {
+          "name": "instagram",
+          "url": ""
+        },
+        {
+          "name": "youtube",
+          "url": "https://youtu.be/RS9WxHOANxE"
+        },
+        {
+          "name": "twitter",
+          "url": ""
+        },
+        {
+          "name": "share",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "name": "Kothambir Wadi",
+      "caption": "Maharashtra's Fav Snack..",
+      "imgpath": "img/KothambirWadi.jpg",
+      "urls": [
+        {
+          "name": "facebook",
+          "url": ""
+        },
+        {
+          "name": "pinterest",
+          "url": ""
+        },
+        {
+          "name": "instagram",
+          "url": ""
+        },
+        {
+          "name": "youtube",
+          "url": "https://youtu.be/SHx9odc4uA4"
+        },
+        {
+          "name": "twitter",
+          "url": ""
+        },
+        {
+          "name": "share",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
