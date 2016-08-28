@@ -19,7 +19,7 @@
           "url": ""
         },
         {
-          "name": "youtube",
+          "name": "youtube-play",
           "url": "https://youtu.be/v_zuuMWuwx4"
         },
         {
@@ -27,7 +27,7 @@
           "url": ""
         },
         {
-          "name": "share",
+          "name": "share-alt",
           "url": ""
         }
       ]
@@ -51,7 +51,7 @@
           "url": ""
         },
         {
-          "name": "youtube",
+          "name": "youtube-play",
           "url": "https://youtu.be/hrWNW7kcHks"
         },
         {
@@ -83,7 +83,7 @@
           "url": ""
         },
         {
-          "name": "youtube",
+          "name": "youtube-play",
           "url": "https://youtu.be/VRnexKrTzcY"
         },
         {
@@ -115,7 +115,7 @@
           "url": ""
         },
         {
-          "name": "youtube",
+          "name": "youtube-play",
           "url": "https://youtu.be/oQ3WvbzWx-c"
         },
         {
@@ -147,7 +147,7 @@
           "url": ""
         },
         {
-          "name": "youtube",
+          "name": "youtube-play",
           "url": "https://youtu.be/XEwbLNaN9ao"
         },
         {
@@ -179,7 +179,7 @@
           "url": ""
         },
         {
-          "name": "youtube",
+          "name": "youtube-play",
           "url": "https://youtu.be/RS9WxHOANxE"
         },
         {
@@ -211,8 +211,72 @@
           "url": ""
         },
         {
-          "name": "youtube",
+          "name": "youtube-play",
           "url": "https://youtu.be/SHx9odc4uA4"
+        },
+        {
+          "name": "twitter",
+          "url": ""
+        },
+        {
+          "name": "share",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "name": "Its cooking",
+      "caption": "Its EatAddictilious..",
+      "imgpath": "img/Chole.jpg",
+      "urls": [
+        {
+          "name": "facebook",
+          "url": ""
+        },
+        {
+          "name": "pinterest",
+          "url": ""
+        },
+        {
+          "name": "instagram",
+          "url": ""
+        },
+        {
+          "name": "youtube-play",
+          "url": ""
+        },
+        {
+          "name": "twitter",
+          "url": ""
+        },
+        {
+          "name": "share",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "no": 9,
+      "name": "Its cooking",
+      "caption": "Its gonna be EatAddictilious..",
+      "imgpath": "img/PrawnsFry.jpg",
+      "urls": [
+        {
+          "name": "facebook",
+          "url": ""
+        },
+        {
+          "name": "pinterest",
+          "url": ""
+        },
+        {
+          "name": "instagram",
+          "url": ""
+        },
+        {
+          "name": "youtube-play",
+          "url": ""
         },
         {
           "name": "twitter",
